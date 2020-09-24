@@ -15,12 +15,12 @@ body{
     color: white;
     font-family: verdana;
     background-color: #18191B;
-    margin: 11px;
+    margin: 25px;
     border: 1px double black;
    -webkit-box-shadow: 2px 3px 22px -6px rgba(0,0,0,0.75);
--moz-box-shadow: 2px 3px 22px -6px rgba(0,0,0,0.75);
-box-shadow: 2px 3px 22px -6px rgba(0,0,0,0.75);
-transition: 0.4s;
+    -moz-box-shadow: 2px 3px 22px -6px rgba(0,0,0,0.75);
+    box-shadow: 2px 3px 22px -6px rgba(0,0,0,0.75);
+    transition: 0.4s;
   
 }
 header {
@@ -39,7 +39,7 @@ header .img{
 
 footer{
     background: url(../img/359.jpg);
-    font-size: 0.8vw;
+    font-size: 0.8em;
     background-size: cover;
     text-align: justify;
     padding: 10px;
@@ -122,3 +122,134 @@ h2{
 .col-md-6{
     margin-top: 11px;
 }
+.figure-caption{
+    color: white;
+}
+#banner h1{
+   font-family: papyrus;
+   font-size: 2em;
+   padding: 25px;
+}
+#PL{
+    
+    margin: 5px;
+    transition: 0.4s;
+
+    
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+
+#PL a{
+    color: #0B709A; 
+    text-align: center;
+    transition: 0.4s;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+#PL a:hover{
+    
+    color: white;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+
+
+
+
+
+
+
+#EN{
+    
+    margin: 5px;
+    transition: 0.4s;
+   
+    
+    text-align: center;
+    text-decoration: none;
+}
+
+    
+#EN a{
+    color: #0B709A; 
+    text-align: center;
+    transition: 0.4s;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+#EN a:hover{
+    color: white;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+#me1{
+    margin: 10px;
+    -webkit-box-shadow: 0px 0px 29px -8px rgba(0,99,148,1);
+-moz-box-shadow: 0px 0px 29px -8px rgba(0,99,148,1);
+box-shadow: 0px 0px 29px -8px rgba(0,99,148,1);
+border-radius: 25px;
+}
+#me2 h1{
+    font-family: papyrus;
+    
+}
+#me2{
+   
+    font-family: verdana;
+   
+    
+    text-decoration: none;
+}
+#me2 p{
+     transition: 0.4s;
+     
+}
+#me2 p a{
+    padding: 5px 5px 5px 25px;
+    text-decoration: none;
+     transition: 0.4s;
+     color: white;
+}
+#me2 a:hover{
+    color: #096189;
+    text-decoration: none;
+    transition: 0.4s;
+}
+#me{
+    padding: 50px 0px 50px 0px;
+}
+#me h1{
+    font-family: papyrus;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+#me3{
+    padding-top: 50px;
+    font-family: verdana;
+   
+    
+    text-decoration: none;
+}
+#me3 p{
+     transition: 0.4s;
+     
+}
+#me3 p a{
+    padding: 5px 5px 5px 25px;
+    text-decoration: none;
+     transition: 0.4s;
+     color: white;
+}
+#me3 a:hover{
+    color: #096189;
+    text-decoration: none;
+    transition: 0.4s;
+    
+   
+ 
