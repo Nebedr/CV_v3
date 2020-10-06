@@ -15,11 +15,11 @@ body{
     color: white;
     font-family: verdana;
     background-color: #18191B;
-    margin: 25px;
+    margin: 15px;
     border: 1px double black;
-   -webkit-box-shadow: 2px 3px 22px -6px rgba(0,0,0,0.75);
-    -moz-box-shadow: 2px 3px 22px -6px rgba(0,0,0,0.75);
-    box-shadow: 2px 3px 22px -6px rgba(0,0,0,0.75);
+   -webkit-box-shadow: 3px 3px 20px 8px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 3px 20px 8px rgba(0,0,0,0.75);
+box-shadow: 3px 3px 20px 8px rgba(0,0,0,0.75);
     transition: 0.4s;
   
 }
